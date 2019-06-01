@@ -1,0 +1,11 @@
+#Lo hago en local porque no está instalado en el cluster
+
+python mapping_tools/get_count_table.py CANOPY/MEGAHIT/*.idxstats.txt > CANOPY/MEGAHIT/counts.txt
+
+#Elimino el header
+
+tail -n +2 CANOPY/MEGAHIT/counts.txt > CANOPY/MEGAHIT/counts_headerless.txt
+
+Compruebo que la primera columna son los point names
+
+awk -F"\t" '{print $1}' CANOPY/MEGAHIT/counts_headerless.txt
