@@ -2,7 +2,7 @@
 
 Este repositorio inlcuye los scripts utilizados en el TFM "Evaluación y comparación de métodos de ensamblaje y binning a partir de datos metagenómicos reales" realizado por Andrea Vergara.
 
-El flujo de traajo es el siguiente:
+El flujo de trabajo es el siguiente:
 
 1.FASTQC  
 2.MultiQC  
