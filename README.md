@@ -4,15 +4,15 @@ Este repositorio inlcuye los scripts utilizados en el TFM "Evaluación y compara
 
 El flujo de traajo es el siguiente:
 
-1.FASTQC
-2.MultiQC
-3.Trimmomatic
-4.MEGAHIT
-5.MetaSPAdes
-6.QUAST
-7.PROKKA
-8.Bowtie2
-9.Canopy
-10.MetaBAT2
-11.CheckM
-12.BLAST
+1.FASTQC  
+2.MultiQC  
+3.Trimmomatic  
+4.MEGAHIT  
+5.MetaSPAdes  
+6.QUAST  
+7.PROKKA  
+8.Bowtie2  
+9.Canopy  
+10.MetaBAT2  
+11.CheckM  
+12.BLAST  
