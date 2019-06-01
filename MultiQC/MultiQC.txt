@@ -1,0 +1,12 @@
+#Lo hago en local porque el software no está instalado en el cluster
+
+#multiqc de los R1
+miniconda2/bin/multiqc Documents/QualityControl/*R1_fastqc.zip
+
+
+#multiqc de los R2
+miniconda2/bin/multiqc Documents/QualityControl/*R2_fastqc.zip
+
+
+#multiqc de los R1+R2
+miniconda2/bin/multiqc Documents/QualityControl/
