@@ -1,0 +1,1 @@
+less CANOPY/MetaSPAdes/clusters.txt | awk '{print $1}' | sort -u > CANOPY/MetaSPAdes/uniq_clusters.txt
