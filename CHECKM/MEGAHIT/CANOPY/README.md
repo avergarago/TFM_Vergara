@@ -1,6 +1,6 @@
 Antes de poder usar CheckM, debo generar un archivo para cada bin con las correspondientes secuencias.
 
-En primer lugar, selecciono todos los bins únicos (uniq_clusters.txt).
+En primer lugar, selecciono todos los bins únicos (Seq_bin.txt).
 
 Después, genero un archivo con los genes por cada bin (createBINScanopy_MEGAHIT.sh).
 
