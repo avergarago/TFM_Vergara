@@ -1,0 +1,1 @@
+cat /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/PROKKA/MEGAHIT/commongenes1_99.fasta  /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/PROKKA/MEGAHIT/commongenes100_fin.fasta  | fasta_formatter | fastx_collapser > /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/PROKKA/MEGAHIT/AllCommonGenes.fasta
