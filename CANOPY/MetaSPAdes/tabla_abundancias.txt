@@ -1,0 +1,1 @@
+python mapping_tools/get_count_table.py CANOPY/MetaSPAdes/*.idxstats.txt > CANOPY/MetaSPAdes/counts.txt
