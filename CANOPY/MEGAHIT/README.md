@@ -1,4 +1,4 @@
-Primero hay que indexar los archivos BAM (Indexado.txt).   
+Primero hay que indexar los archivos BAM (Indexado.sh).   
 
 Después, crear la tabla de abundancias con las funciones idxstats de samtools (idxstats.sh) y get_count_table.py de mapping_tools (tabla_abundancia.txt).   
 
