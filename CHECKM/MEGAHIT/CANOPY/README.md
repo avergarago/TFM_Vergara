@@ -6,4 +6,4 @@ Después, genero un archivo con los genes por cada bin (createBINScanopy_MEGAHIT
 
 Añado las secuencias fasta correspondientes a cada uno de los genes (fastaCANOPYbins_MEGAHIT.sh).
 
-Por último, una vez tenemos los archivos en el formato adecuado, se realiza el análisis con CheckM (CheckM.sh). 
+Por último, una vez tenemos los archivos en el formato adecuado, se realiza el análisis con CheckM (checkm_MEGAHIT.sh). 
