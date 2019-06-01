@@ -1,1 +1,5 @@
 python mapping_tools/get_count_table.py CANOPY/MetaSPAdes/*.idxstats.txt > CANOPY/MetaSPAdes/counts.txt
+
+Elimino el header
+
+tail -n +2 CANOPY/MetaSPAdes/counts.txt > CANOPY/MetaSPAdes/counts_headerless.txt
