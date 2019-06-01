@@ -1,0 +1,3 @@
+#Antes de poder usar CheckM, debo generar un archivo para cada bin con las correspondientes secuencias.
+
+less CANOPY/MEGAHIT/clusters.txt | awk '{print $1}' | sort -u > CANOPY/MEGAHIT/uniq_clusters.txt
