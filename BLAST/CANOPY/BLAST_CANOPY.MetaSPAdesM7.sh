@@ -20,13 +20,11 @@ blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/Me
 
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0003.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0003.txt -outfmt 7 -num_threads 24
 
-
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0015.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0015.txt -outfmt 7 -num_threads 24
+
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0024.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0024.txt -outfmt 7 -num_threads 24
 
-
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0008.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0008.txt -outfmt 7 -num_threads 24
-
 
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0010.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0010.txt -outfmt 7 -num_threads 24
 
@@ -36,10 +34,10 @@ blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/Me
 
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0020.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0020.txt -outfmt 7 -num_threads 24
 
-
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0033.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0033.txt -outfmt 7 -num_threads 24
 
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0026.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0026.txt -outfmt 7 -num_threads 24
+
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0021.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0021.txt -outfmt 7 -num_threads 24
 
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0022.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0022.txt -outfmt 7 -num_threads 24
@@ -51,6 +49,7 @@ blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/Me
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0012.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0012.txt -outfmt 7 -num_threads 24
 
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0002.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0002.txt -outfmt 7 -num_threads 24
+
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0018.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0018.txt -outfmt 7 -num_threads 24
 
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0009.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0009.txt -outfmt 7 -num_threads 24
@@ -63,8 +62,8 @@ blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/Me
 
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0029.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0029.txt -outfmt 7 -num_threads 24
 
-
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0005.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0005.txt -outfmt 7 -num_threads 24
+
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0023.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0023.txt -outfmt 7 -num_threads 24
 
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0013.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0013.txt -outfmt 7 -num_threads 24
@@ -80,4 +79,5 @@ blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/Me
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0030.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0030.txt -outfmt 7 -num_threads 24
 
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0031.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0031.txt -outfmt 7 -num_threads 24
+
 blastn -query /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/CANOPY/MetaSPAdes/bins_dir/fasta/CAG0042.txt -db /biodata/db/dna/nt/nt-ncbi/nt -out /imppc/external/irsicaixa/share/Work/Projects/TFM_Andrea/BLASTN/CANOPY/MetaSPAdes/M7/CAG0042.txt -outfmt 7 -num_threads 24
